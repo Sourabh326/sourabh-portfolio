@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "sourabhPortfolio",
-  "homepage": "https://Sourabh326.github.io/sourabh-portfolio",
+  "homepage": "http://Sourabh326.github.io/sourabh-portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
