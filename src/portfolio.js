@@ -187,7 +187,6 @@ const skills = {
             color: "#2C8EBB",
           },
         },
-        
       ],
     },
     {
@@ -307,17 +306,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Samrat Ashok Technological Institute",
+      subtitle: "B.E. in Electronics and Communication Engineering",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      alt_name: "SATI",
+      duration: "2016 - 2019",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.satiengg.in/",
+    },
+    {
+      title: "University Polytechnic, RGPV Bhopal",
+      subtitle: "Diploma in Electronics and telecommunication",
+      logo_path: "iiitk_logo.png",
+      alt_name: "SATI",
+      duration: "2013 - 2016",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://www.rgpv.ac.in/Departments/ProfUitPoly.aspx",
     },
   ],
 };
